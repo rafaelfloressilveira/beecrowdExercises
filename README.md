@@ -1,3 +1,3 @@
-# Curso ProgramadorBR
+# Soluções dos exercícios práticos em JS
 
-Repositório para os desafios, projetos do Curso ProgramadorBR
+Repositório soluções dos exercícios práticos em JS do site https://www.beecrowd.com.br/
